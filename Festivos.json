@@ -1,0 +1,362 @@
+[
+  {
+    "Fecha": "1/01/2024",
+    "Día": "Lunes",
+    "Festivo": "Año Nuevo"
+  },
+  {
+    "Fecha": "8/01/2024",
+    "Día": "Lunes",
+    "Festivo": "Reyes Magos"
+  },
+  {
+    "Fecha": "25/03/2024",
+    "Día": "Lunes",
+    "Festivo": "Día de San José"
+  },
+  {
+    "Fecha": "28/03/2024",
+    "Día": "Jueves",
+    "Festivo": "Jueves Santo"
+  },
+  {
+    "Fecha": "29/03/2024",
+    "Día": "Viernes",
+    "Festivo": "Viernes Santo"
+  },
+  {
+    "Fecha": "1/05/2024",
+    "Día": "Miércoles",
+    "Festivo": "Día del trabajo"
+  },
+  {
+    "Fecha": "13/05/2024",
+    "Día": "Lunes",
+    "Festivo": "Ascensión de Jesús"
+  },
+  {
+    "Fecha": "3/06/2024",
+    "Día": "Lunes",
+    "Festivo": "Corpus Christi"
+  },
+  {
+    "Fecha": "10/06/2024",
+    "Día": "Lunes",
+    "Festivo": "Sagrado Corazón de Jesús"
+  },
+  {
+    "Fecha": "1/07/2024",
+    "Día": "Lunes",
+    "Festivo": "San Pedro y San Pablo"
+  },
+  {
+    "Fecha": "20/07/2024",
+    "Día": "Sábado",
+    "Festivo": "Día de la independencia"
+  },
+  {
+    "Fecha": "7/08/2024",
+    "Día": "Miércoles",
+    "Festivo": "Batalla de Boyacá"
+  },
+  {
+    "Fecha": "19/08/2024",
+    "Día": "Lunes",
+    "Festivo": "Asunción de la Virgen"
+  },
+  {
+    "Fecha": "14/10/2024",
+    "Día": "Lunes",
+    "Festivo": "Día de la raza"
+  },
+  {
+    "Fecha": "4/11/2024",
+    "Día": "Lunes",
+    "Festivo": "Todos los Santos"
+  },
+  {
+    "Fecha": "11/11/2024",
+    "Día": "Lunes",
+    "Festivo": "Independencia de Cartagena"
+  },
+  {
+    "Fecha": "8/12/2024",
+    "Día": "Domingo",
+    "Festivo": "Inmaculada Concepción"
+  },
+  {
+    "Fecha": "25/12/2024",
+    "Día": "Miércoles",
+    "Festivo": "Navidad"
+  },
+  {
+    "Fecha": "1/01/2025",
+    "Día": "Miércoles",
+    "Festivo": "Año Nuevo"
+  },
+  {
+    "Fecha": "6/01/2025",
+    "Día": "Lunes",
+    "Festivo": "Reyes Magos"
+  },
+  {
+    "Fecha": "24/03/2025",
+    "Día": "Lunes",
+    "Festivo": "Día de San José"
+  },
+  {
+    "Fecha": "17/04/2025",
+    "Día": "Jueves",
+    "Festivo": "Jueves Santo"
+  },
+  {
+    "Fecha": "18/04/2025",
+    "Día": "Viernes",
+    "Festivo": "Viernes Santo"
+  },
+  {
+    "Fecha": "1/05/2025",
+    "Día": "Jueves",
+    "Festivo": "Día del trabajo"
+  },
+  {
+    "Fecha": "2/06/2025",
+    "Día": "Lunes",
+    "Festivo": "Ascensión de Jesús"
+  },
+  {
+    "Fecha": "23/06/2025",
+    "Día": "Lunes",
+    "Festivo": "Corpus Christi"
+  },
+  {
+    "Fecha": "30/06/2025",
+    "Día": "Lunes",
+    "Festivo": "Sagrado Corazón de Jesús"
+  },
+  {
+    "Fecha": "30/06/2025",
+    "Día": "Lunes",
+    "Festivo": "San Pedro y San Pablo"
+  },
+  {
+    "Fecha": "20/07/2025",
+    "Día": "Domingo",
+    "Festivo": "Día de la independencia"
+  },
+  {
+    "Fecha": "7/08/2025",
+    "Día": "Jueves",
+    "Festivo": "Batalla de Boyacá"
+  },
+  {
+    "Fecha": "18/08/2025",
+    "Día": "Lunes",
+    "Festivo": "Asunción de la Virgen"
+  },
+  {
+    "Fecha": "13/10/2025",
+    "Día": "Lunes",
+    "Festivo": "Día de la raza"
+  },
+  {
+    "Fecha": "3/11/2025",
+    "Día": "Lunes",
+    "Festivo": "Todos los Santos"
+  },
+  {
+    "Fecha": "17/11/2025",
+    "Día": "Lunes",
+    "Festivo": "Independencia de Cartagena"
+  },
+  {
+    "Fecha": "8/12/2025",
+    "Día": "Lunes",
+    "Festivo": "Inmaculada Concepción"
+  },
+  {
+    "Fecha": "25/12/2025",
+    "Día": "Jueves",
+    "Festivo": "Navidad"
+  },
+  {
+    "Fecha": "1/01/2026",
+    "Día": "Jueves",
+    "Festivo": "Año Nuevo"
+  },
+  {
+    "Fecha": "12/01/2026",
+    "Día": "Lunes",
+    "Festivo": "Reyes Magos"
+  },
+  {
+    "Fecha": "23/03/2026",
+    "Día": "Lunes",
+    "Festivo": "Día de San José"
+  },
+  {
+    "Fecha": "2/04/2026",
+    "Día": "Jueves",
+    "Festivo": "Jueves Santo"
+  },
+  {
+    "Fecha": "3/04/2026",
+    "Día": "Viernes",
+    "Festivo": "Viernes Santo"
+  },
+  {
+    "Fecha": "1/05/2026",
+    "Día": "Viernes",
+    "Festivo": "Día del trabajo"
+  },
+  {
+    "Fecha": "18/05/2026",
+    "Día": "Lunes",
+    "Festivo": "Ascensión de Jesús"
+  },
+  {
+    "Fecha": "8/06/2026",
+    "Día": "Lunes",
+    "Festivo": "Corpus Christi"
+  },
+  {
+    "Fecha": "15/06/2026",
+    "Día": "Lunes",
+    "Festivo": "Sagrado Corazón de Jesús"
+  },
+  {
+    "Fecha": "29/06/2026",
+    "Día": "Lunes",
+    "Festivo": "San Pedro y San Pablo"
+  },
+  {
+    "Fecha": "20/07/2026",
+    "Día": "Lunes",
+    "Festivo": "Día de la independencia"
+  },
+  {
+    "Fecha": "7/08/2026",
+    "Día": "Viernes",
+    "Festivo": "Batalla de Boyacá"
+  },
+  {
+    "Fecha": "17/08/2026",
+    "Día": "Lunes",
+    "Festivo": "Asunción de la Virgen"
+  },
+  {
+    "Fecha": "12/10/2026",
+    "Día": "Lunes",
+    "Festivo": "Día de la raza"
+  },
+  {
+    "Fecha": "2/11/2026",
+    "Día": "Lunes",
+    "Festivo": "Todos los Santos"
+  },
+  {
+    "Fecha": "16/11/2026",
+    "Día": "Lunes",
+    "Festivo": "Independencia de Cartagena"
+  },
+  {
+    "Fecha": "8/12/2026",
+    "Día": "Martes",
+    "Festivo": "Inmaculada Concepción"
+  },
+  {
+    "Fecha": "25/12/2026",
+    "Día": "Viernes",
+    "Festivo": "Navidad"
+  },
+  {
+    "Fecha": "1/01/2027",
+    "Día": "Viernes",
+    "Festivo": "Año Nuevo"
+  },
+  {
+    "Fecha": "11/01/2027",
+    "Día": "Lunes",
+    "Festivo": "Reyes Magos"
+  },
+  {
+    "Fecha": "22/03/2027",
+    "Día": "Lunes",
+    "Festivo": "Día de San José"
+  },
+  {
+    "Fecha": "25/03/2027",
+    "Día": "Jueves",
+    "Festivo": "Jueves Santo"
+  },
+  {
+    "Fecha": "26/03/2027",
+    "Día": "Viernes",
+    "Festivo": "Viernes Santo"
+  },
+  {
+    "Fecha": "1/05/2027",
+    "Día": "Sábado",
+    "Festivo": "Día del trabajo"
+  },
+  {
+    "Fecha": "10/05/2027",
+    "Día": "Lunes",
+    "Festivo": "Ascensión de Jesús"
+  },
+  {
+    "Fecha": "31/05/2027",
+    "Día": "Lunes",
+    "Festivo": "Corpus Christi"
+  },
+  {
+    "Fecha": "7/06/2027",
+    "Día": "Lunes",
+    "Festivo": "Sagrado Corazón de Jesús"
+  },
+  {
+    "Fecha": "5/07/2027",
+    "Día": "Lunes",
+    "Festivo": "San Pedro y San Pablo"
+  },
+  {
+    "Fecha": "20/07/2027",
+    "Día": "Martes",
+    "Festivo": "Día de la independencia"
+  },
+  {
+    "Fecha": "7/08/2027",
+    "Día": "Sábado",
+    "Festivo": "Batalla de Boyacá"
+  },
+  {
+    "Fecha": "16/08/2027",
+    "Día": "Lunes",
+    "Festivo": "Asunción de la Virgen"
+  },
+  {
+    "Fecha": "18/10/2027",
+    "Día": "Lunes",
+    "Festivo": "Día de la raza"
+  },
+  {
+    "Fecha": "1/11/2027",
+    "Día": "Lunes",
+    "Festivo": "Todos los Santos"
+  },
+  {
+    "Fecha": "15/11/2027",
+    "Día": "Lunes",
+    "Festivo": "Independencia de Cartagena"
+  },
+  {
+    "Fecha": "8/12/2027",
+    "Día": "Miércoles",
+    "Festivo": "Inmaculada Concepción"
+  },
+  {
+    "Fecha": "25/12/2027",
+    "Día": "Sábado",
+    "Festivo": "Navidad"
+  }
+]
